@@ -10,15 +10,18 @@
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
-![](https://img.shields.io/badge/OS-Linus-informational?style=flat&logo=ubuntu&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Distribution-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=apacheairflow&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Windows-success?style=flat&logo=windows&logoColor=white&color=success)
+![](https://img.shields.io/badge/OS-Linus-success?style=flat&logo=ubuntu&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white&color=success)
+![](https://img.shields.io/badge/Distribution-Anaconda-success?style=flat&logo=anaconda&logoColor=white&color=success)
+![](https://img.shields.io/badge/IDE-Vscode-success?style=flat&logo=visualstudiocode&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Airflow-success?style=plastic&logo=apacheairflow&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Docker-success?style=flat&logo=docker&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Pyspark-success?style=plastic&logo=apachespark&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Flask-success?style=flat&logo=flask&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Hadoop-success?style=flat&logo=apachehadoop&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Kafka-success?style=flat&logo=apachekafka&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Cassandra-success?style=flat&logo=apachecassandra&logoColor=white&color=success)
 
 ## &#x1f4c8; GitHub Stats
 
