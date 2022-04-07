@@ -1,11 +1,11 @@
 ### Hi there, I am Michel. 👋
 
-## A Junior Data Scientist based in Visé, Belgium.
+## A Junior Data Engineer based in Brussels, Belgium.
 
 - I'm currently at the end of an intensive Artificial Intelligence training at Becode.org
-- I use : `python`, `pandas`, `matplotlib`, `scikit-learn`, `plotly`, `keras`, `streamlit`, `NLP` on a daily basis.
-- Learning all about **Data Science, Machine learning, Deep Learning**.
-- Ask me about **Data manipulation**, **ML model creation**, **python**, **NLP**, **Model deployment**, **Web development**.
+- I use : `python`, `pandas`, `pyspark`, `Airflow`, `postgreSQL`, `redshift`, `cassandra`, `Hadoop` on a daily basis.
+- Learning all about **Infrastructure as code, Automation, Data pipeline, Data ingestion, ETL, Data visualization**.
+- Ask me about **Data modeling**, **Data Warehouse**, **Database**, **Data lake**, **CI/CD**, **Cloud computing**.
 - Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin][linkedin], [twitter][twitter]
 
 
