@@ -6,7 +6,7 @@
 - I use : `python`, `pandas`, `pyspark`, `Airflow`, `postgreSQL`, `redshift`, `cassandra`, `Hadoop` on a daily basis.
 - Learning all about **Infrastructure as code, Automation, Data pipeline, Data ingestion, ETL, Data visualization**.
 - Ask me about **Data modeling**, **Data Warehouse**, **Database**, **Data lake**, **CI/CD**, **Cloud computing**.
-- Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin][linkedin], [twitter][twitter]
+- Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin][linkedin]
 
 
 ## 🔧 Technologies & Tools
@@ -22,6 +22,10 @@
 ![](https://img.shields.io/badge/Tools-Hadoop-success?style=flat&logo=apachehadoop&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tools-Kafka-success?style=flat&logo=apachekafka&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tools-Cassandra-success?style=flat&logo=apachecassandra&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-AWS-success?style=flat&logo=amazonaws&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Terraform-success?style=flat&logo=terraform&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Kubernetes-success?style=flat&logo=kubernetes&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tools-Jenkins-success?style=flat&logo=jenkins&logoColor=white&color=success)
 
 ## &#x1f4c8; GitHub Stats
 
