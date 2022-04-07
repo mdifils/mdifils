@@ -2,7 +2,7 @@
 
 ## A Junior Data Engineer based in Brussels, Belgium.
 
-- I'm currently at the end of an intensive Artificial Intelligence training at Becode.org
+- I'm available to start new position as data engineer.
 - I use : `python`, `pandas`, `pyspark`, `Airflow`, `postgreSQL`, `redshift`, `cassandra`, `Hadoop` on a daily basis.
 - Learning all about **Infrastructure as code, Automation, Data pipeline, Data ingestion, ETL, Data visualization**.
 - Ask me about **Data modeling**, **Data Warehouse**, **Database**, **Data lake**, **CI/CD**, **Cloud computing**.
