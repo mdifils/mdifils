@@ -6,7 +6,7 @@
 - I use : `ansible`, `terraform`, `jenkins`, `kubernetes`, `packer`, `docker`, `vagrant`, `linux` on a daily basis.
 - Learning all about **Infrastructure as code, Automation, CI/CD, Virtualization, Cloud computing, Version Control System**.
 - Ask me about **Gitlab**, **Github**, **AWS**, **Digital Ocean**, **Proxmox**.
-- Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin](https://www.linkedin.com/in/mdifils/)
+- Reach me at: [Linkedin](https://www.linkedin.com/in/mdifils/), [Gitlab](https://gitlab.com/mdifils)
 
 
 ## 🔧 Technologies & Tools
