@@ -5,7 +5,7 @@
 - I'm about to finish my training at [BeCode](https://becode.org/learn/devops-secops-sysadmin-training/) and will be available to start new position as devops engineer from September.
 - I use : `ansible`, `terraform`, `jenkins`, `kubernetes`, `packer`, `docker`, `vagrant`, `linux` on a daily basis.
 - Learning all about **Infrastructure as code, Automation, CI/CD, Virtualization, Cloud computing, Version Control System**.
-- Ask me about **Gitlab**, **Github**, **AWS**, **Digital Ocean**, **CI/CD**.
+- Ask me about **Gitlab**, **Github**, **AWS**, **Digital Ocean**, **Proxmox**.
 - Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin](https://www.linkedin.com/in/mdifils/)
 
 
