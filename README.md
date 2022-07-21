@@ -1,12 +1,12 @@
 ### Hi there, I am Michel. 👋
 
-## A Junior Data Engineer based in Brussels, Belgium.
+## A Junior DevOps Engineer based in Brussels, Belgium.
 
-- I'm available to start new position as data engineer.
-- I use : `python`, `pandas`, `pyspark`, `Airflow`, `postgreSQL`, `redshift`, `cassandra`, `Hadoop` on a daily basis.
-- Learning all about **Infrastructure as code, Automation, Data pipeline, Data ingestion, ETL, Data visualization**.
-- Ask me about **Data modeling**, **Data Warehouse**, **Database**, **Data lake**, **CI/CD**, **Cloud computing**.
-- Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin][linkedin]
+- I'm about to finish my training at [BeCode](https://becode.org/learn/devops-secops-sysadmin-training/) and will be available to start new position as devops engineer from September.
+- I use : `ansible`, `terraform`, `jenkins`, `kubernetes`, `packer`, `docker`, `vagrant`, `linux` on a daily basis.
+- Learning all about **Infrastructure as code, Automation, CI/CD, Virtualization, Cloud computing, Version Control System**.
+- Ask me about **Gitlab**, **Github**, **AWS**, **Digital Ocean**, **CI/CD**.
+- Reach me at: [michel.fils@hotmail.com](michel.fils@hotmail.com), [linkedin](https://www.linkedin.com/in/mdifils/)
 
 
 ## 🔧 Technologies & Tools
