@@ -1,6 +1,6 @@
 ### Hi there, I am Michel. 👋
 
-## A Junior DevOps Engineer based in Brussels, Belgium.
+## A DevOps Engineer based in Brussels, Belgium.
 
 - I'm about to finish my training at [BeCode](https://becode.org/learn/devops-secops-sysadmin-training/) and will be available to start new position as devops engineer from September.
 - I use : `ansible`, `terraform`, `jenkins`, `kubernetes`, `packer`, `docker`, `vagrant`, `linux` on a daily basis.
